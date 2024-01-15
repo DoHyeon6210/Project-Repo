@@ -1,1 +1,1 @@
-# This is the my Aiffel project repository
+# This is my Aiffel project repository
