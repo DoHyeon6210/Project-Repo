@@ -1,1 +1,1 @@
-# This is a Project-Repo
+# This is the my Aiffel project repository
