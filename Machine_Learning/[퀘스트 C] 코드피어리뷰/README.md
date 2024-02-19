@@ -1,7 +1,7 @@
 # AIFFEL Data Scientist Campus Code Peer Review Templete
 
 코더 : [코드 작성자]
-
+바꿈
 리뷰어 : [리뷰어]
 
 ---
