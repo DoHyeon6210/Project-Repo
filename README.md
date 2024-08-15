@@ -1,1 +1,1 @@
-### This repository contains ipynotebooks of all projects I have done before.
+### This repository contains Jupyter notebooks for all the projects I have completed.
